@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Taller1</string>
+    <string name="fibonacci">Fibonacci</string>
+    <string name="factorial">Factorial</string>
+    <string name="paises">Paises</string>
+    <string name="num">Numero</string>
+    <string name="pos">Posiciones</string>
+</resources>
